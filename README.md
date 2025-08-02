@@ -1,5 +1,7 @@
 # EDREnum
 
+<img width="1536" height="1024" alt="b0acd046-034e-4370-8a82-a31405097b44" src="https://github.com/user-attachments/assets/5914f733-7828-4805-85ee-699f7aef59bb" />
+
 **EDREnum** is an advanced, stealthy EDR detection tool for Windows. It leverages low-level NT API calls and a comprehensive database of known EDR signatures to enumerate endpoint detection and response products running on a system.
 
 ---
